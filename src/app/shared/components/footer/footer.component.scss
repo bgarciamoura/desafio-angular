@@ -1,0 +1,23 @@
+.footer {
+  background-color: #333;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+
+  p {
+    margin: 0;
+    color: white;
+  }
+}
+.footer-nav {
+  margin-top: 0.5rem;
+}
+.footer-link {
+  margin: 0 0.5rem;
+  color: #007bff;
+  text-decoration: none;
+}
+.footer-link:hover {
+  text-decoration: underline;
+}
